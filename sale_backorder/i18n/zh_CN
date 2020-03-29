@@ -18,100 +18,102 @@ msgstr ""
 msgid "A storable product is a product for which you manage stock. The Inventory app has to be installed.\n"
 "A consumable product is a product for which stock is not managed.\n"
 "A service is a non-material product you provide."
-msgstr ""
+msgstr "可存储产品是您管理库存的产品,必须安装广告资源应用。\n“
+“消耗品是指没有管理库存的产品。\n”
+“服务是您提供的非实物产品。"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order_line__bo_qty
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report
 msgid "Backorder Qty"
-msgstr ""
+msgstr "缺货数量"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order__bo_value
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order_line__bo_value
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report
 msgid "Backorder Value"
-msgstr ""
+msgstr "缺货价值"
 
 #. module: sale_backorder
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report_view
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sobackorder_report_wizard__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "制单人"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sobackorder_report_wizard__create_date
 msgid "Created on"
-msgstr ""
+msgstr "创建于"
 
 #. module: sale_backorder
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report
 msgid "Description"
-msgstr ""
+msgstr "说明"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sobackorder_report_wizard__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "显示名称"
 
 #. module: sale_backorder
 #: model:ir.actions.act_window,name:sale_backorder.action_so_backorder_wizard
 #: model:ir.ui.menu,name:sale_backorder.menu_so_backorder_report
 msgid "Generate SO Backorder Report"
-msgstr ""
+msgstr "生成SO缺货报告"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sobackorder_report_wizard__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order__last_bill_date
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order_line__last_bill_date
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report
 msgid "Last Bill Date"
-msgstr ""
+msgstr "最后账单日期"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order__last_date_delivered
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order_line__last_date_delivered
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report
 msgid "Last Date Delivered"
-msgstr ""
+msgstr "最后交货日期"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sobackorder_report_wizard____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "最后修改时间"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sobackorder_report_wizard__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "最后更新者"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sobackorder_report_wizard__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "最后更新时间"
 
 #. module: sale_backorder
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report
 msgid "Order Reference"
-msgstr ""
+msgstr "订单参考"
 
 #. module: sale_backorder
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report
 msgid "PO Backorder Report"
-msgstr ""
+msgstr "采购订单报告"
 
 #. module: sale_backorder
 #: model_terms:ir.ui.view,arch_db:sale_backorder.so_backorder_report_view
 msgid "Print Report"
-msgstr ""
+msgstr "打印报告"
 
 #. module: sale_backorder
 #: model:ir.model.fields,field_description:sale_backorder.field_sale_order_line__product_type
